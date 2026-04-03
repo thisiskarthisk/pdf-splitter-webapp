@@ -1,0 +1,8 @@
+flask
+pymupdf
+python-docx
+openpyxl
+requests
+gunicorn
+Pillow
+
